@@ -20,7 +20,7 @@ I enjoy working with data, finding insights, and creating simple dashboards.
 ---
 
 ## 📂 Projects
-    - 
+- 🔗 Project files available in this repository.
 
 
 ### 📊 Sales Data Analysis (Python)
