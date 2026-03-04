@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanju Dagar
 
-🎓 12th HBSCE Student  
+🎓 BSc (Non-Medical) | final semester Student  
 📊 Aspiring Data Analyst  
 💻 Python | SQL | Excel  
 
