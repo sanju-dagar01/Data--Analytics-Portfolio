@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanju Dagar
 
-🎓 BSc (Non-Medical) | final semester Student  
+🎓 BSc (Non-Medical)
 📊 Aspiring Data Analyst  
 💻 Python | SQL | Excel  
 
